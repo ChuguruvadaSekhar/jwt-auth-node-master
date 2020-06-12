@@ -1,9 +1,5 @@
 # JWT Authorization and Token Refresh - Angular Academy
 
-Node.js part of video lesson:
-
-[JWT Authorization and Token Refresh](https://www.youtube.com/watch?v=F1GUjHPpCLA)
-
 <p align="center">
   
 [<img src="https://github.com/bartosz-io/jwt-auth-node/blob/master/image.png">](https://www.youtube.com/watch?v=F1GUjHPpCLA)
